@@ -2,7 +2,7 @@ module github.com/silvestre/renovate-test-repo
 
 go 1.21.0
 
-require code.cloudfoundry.org/lager/v3 v3.0.0
+require code.cloudfoundry.org/lager/v3 v3.0.2
 
 require (
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
